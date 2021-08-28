@@ -1,5 +1,6 @@
 import React from "react"
 
+
 const Home = props => (
     <div>
         <h1>Seja Bem-vindo(a)</h1>
